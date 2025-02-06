@@ -20,10 +20,15 @@ Coloca las etiquetas HTML en el orden correcto y conviertete en una máquina del
 3. **Dificultad:**
    - Al iniciar la partida, cuentas con 50 segundos para completar todos los niveles.
    - En caso de no lograrlo, dejarás de poder moverte y podrás volver al menú.
+
+<br>
+
+## 🎮 ¡Prueba tu mismo!
+https://fmoorenoo.github.io/TagMasterPage/
   
 <br>
 
-## 🎮 Capturas del juego
+## 📷 Capturas del juego
 | Menú Inicio | Juego |
 | -------------- | --------------- |
 | <img width="800" src="https://github.com/user-attachments/assets/b1e7fc72-6fbd-4087-b0f3-f9989acb7ca8"> | <img width="800" src="https://github.com/user-attachments/assets/d76e2698-fef5-45cd-8959-b92ce5e85d72"> |
